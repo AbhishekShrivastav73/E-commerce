@@ -1,0 +1,9 @@
+.menus, footer, .btn{
+    box-shadow: 1px 1px 18px rgba(0, 0, 0, 0.507);
+}
+.productContainer::-webkit-scrollbar{
+    display: none;
+}
+#popularContainer::-webkit-scrollbar{
+    display: none;
+}
