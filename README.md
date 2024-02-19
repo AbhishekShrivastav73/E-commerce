@@ -1,7 +1,4 @@
 # E-commerce
-## Project Name: Mobile E-Commerce Oasis
-
-## Welcome to Mobile E-Commerce Oasis!
 
 ### Description
 Welcome to Mobile E-Commerce Oasis, where shopping meets convenience! Our project is a sleek and intuitive mobile e-commerce website designed to revolutionize your shopping experience. Featuring a seamless cart functionality, it allows you to effortlessly add products and breeze through the checkout process. Crafted with Tailwind CSS for stunning visuals and powered by JavaScript for dynamic interactions, our website promises to captivate and delight users.
